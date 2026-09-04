@@ -39,4 +39,4 @@ A pesar de la naturaleza limitada de la data, la arquitectura de procesamiento p
 3. Asegúrate de tener instaladas las dependencias: `scikit-learn >= 1.2`, `pandas`, `numpy`.
 
 ## 👤 Autor
-**Luis Mauricio** *Estudiante de Economía - UNMSM* *Interesado en Data Science, Econometría y MLOps.*
+**Piero Alexander Simeon Bustillos* *Estudiante de Economía - UNMSM* *Interesado en Data Science, Econometría y MLOps.*
